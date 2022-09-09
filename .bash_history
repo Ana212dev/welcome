@@ -502,3 +502,277 @@ git status
 cd ..
 git status
 git commit --amend --date="2022-08-02 12:30:30"
+git status
+cd ..
+git status
+git add .
+git commit "commit 1"
+git commit "smallestInt"
+git push 
+git push -u origin master
+git push -u origin main
+git status
+mkdir countSheep
+cd countSheep
+mkdir css
+mkdir js
+touch index.html
+cd css
+touch style.css
+cd ..
+cd js
+touch main.js
+cd .. 
+code . 
+git status
+git init
+git commit -m "countSheep"
+git branch -M main 
+git status
+git add countSheep/
+git branch -M main
+git status
+git remote add origin https://github.com/Ana212dev/countingSheep.git
+git push -u origin main
+git push
+git status
+git remote add origin https://github.com/Ana212dev/countingSheep.git
+git push -u origin main 
+git status
+git restore --staged countSheep/
+git add countSheep/
+git status
+git remote add origin https://github.com/Ana212dev/countingSheep.git
+git push -u origin main
+git push 
+git status
+git branch -M main
+git status
+git push 
+git commit -m "countSheep"
+git branch -M main 
+git remote add origin https://github.com/Ana212dev/countingSheep.git
+git push -u origin main
+git status
+mkdir classAvg
+cd classAvg
+mkdir css
+mkdir js
+touch index.html
+cd .. 
+touch style.css
+cd .. 
+touch main.js
+mkdir classAvg1 
+cd classAvg1
+mkdir css
+mkdir js
+touch index.html
+cd css
+cd ..
+cd js
+touch main.js
+cd ..
+code . 
+git commit -m "betterThanAverage"
+git add classAvg1/
+git branch -M main
+git remote add origin https://github.com/Ana212dev/betterThanAverage.git
+git push -u origin main
+git push
+git status
+git init 
+git commit -m "betterThanAverage"
+git branch main
+git branch -M main
+git remote add origin https://github.com/Ana212dev/betterThanAverage.git
+git push -u origin main
+mkdir example10
+cd example10
+mkdir css
+mkdir js
+touch index.html
+cd css
+touch style.css
+cd ..
+cd js
+touch main.js
+cd ..
+code .
+git status
+git commit -m "makeUpperCase"
+git branch -M main
+git remote add origin https://github.com/Ana212dev/example10.git
+git push -u origin main
+git status
+git add example10/
+git init
+git commit -m "makeUpperCase"
+git branch -M main 
+git remote add origin https://github.com/Ana212dev/example10.git
+git push -u origin main 
+mkdir example11
+cd example11
+mkdir css
+mkdir js
+touch index.html
+cd css
+touch style.css
+cd ..
+cd js 
+touch main.js
+cd .. 
+code . 
+git init 
+git status
+git add example11/
+git commit -m "multiTable"
+git branch -M main 
+git remote add origin https://github.com/Ana212dev/example11.git
+git push -u origin main
+git push 
+git status
+git remote add origin https://github.com/Ana212dev/example11.git
+git push -u origin main
+git push -u origin main 
+git pull
+git status
+git commit
+git status
+git commit -m "makeUpperCase"
+git branch -M main 
+git push 
+mkdir example29
+cd example29
+mkdir css
+mkdir js
+touch index.html
+cd css
+touch style.css
+cd ..
+cd js
+touch main.js
+cd .. 
+code . 
+git init
+git commit -m "Sort Array in Ascending order"
+git add example29/
+git branch -M main
+git commit 
+git staus
+git status
+git branch -M main
+git remote add origin https://github.com/Ana212dev/eight-ball.git
+git push -u origin main
+git push -u origin main 
+git status
+git commit
+git status
+git commit -M branch
+git branch -M main
+git remote add origin https://github.com/Ana212dev/example29.git
+git push -u origin main
+git push
+git status
+git commit -m "Sort Array Ascending Order"
+git remote add origin https://github.com/Ana212dev/example29.git
+git push -u origin main
+mkdir example28
+cd example28
+mkdir css
+mkdir js
+touch index.html
+cd css
+touch style.css
+cd .. 
+cd js
+touch main.js
+cd .. 
+code .
+rm -rf example28/
+mkdir example28
+cd example28
+mkdir css
+mkdir js
+touch index.html
+cd css
+touch style.css
+cd ..
+cd js
+touch main.js
+cd ..
+code .
+rm -rf example28/
+mkdir example28
+rm -rf example28/
+mkdir example28
+cd example28
+mkdir css
+mkdir js
+touch index.html
+cd css
+touch style.css
+cd ..
+cd js
+touch main.js
+cd ..
+code .
+rm -rf example28/
+code .
+git add.
+git add 
+git add example28
+git commit "Removing lowercase Vowels"
+git commit -m "Removing lowercase Vowels"
+status
+git status
+git commit --amend --date ="2022-09-01 12:00:30"
+git status
+git push
+mkdir example30
+cd example30
+mkdir css
+mkdir js
+touch index.html
+cd css
+touch style.css
+cd ..
+cd js
+touch main.js
+cd ..
+code .
+mkdir example34
+cd example
+cd clear
+mkdir example34
+cd example34
+mkdir css
+mkdir js
+touch index.html
+cd css
+touch style.css
+cd ..
+cd js
+touch main.js
+cd ..
+code .
+git init
+git status
+git add example34/
+git commit -m "JadenCased"
+git branch -M maingit remote add origin https://github.com/Ana212dev/example34.git
+git remote add origin https://github.com/Ana212dev/example34.git
+git push -u origin main
+mkdir example33
+cd example33
+mkdir css
+mkdir js
+touch index.html
+cd css
+touch style.css
+cd ..
+cd js
+touch main.js
+cd .. 
+code . 
+git status
