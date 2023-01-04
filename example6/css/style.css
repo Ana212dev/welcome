@@ -1,22 +1,23 @@
-/******************************************
-/* CSS
-/*******************************************/
+
 
 /* Box Model Hack */
 *{
     box-sizing: border-box;
   }
+  body {
+    background-color: lightblue;
+  }
+  h2 {
+    border-style: solid;
+    border-width: medium;
+    font-size: 20pt;
+    background-color:blueviolet;
+  }
   
-  /******************************************
-  /* LAYOUT
-  /*******************************************/
+  /* LAYOUT */
   img{
     display: block;
     margin: 0 auto;
   }
   
-  
-  /******************************************
-  /* ADDITIONAL STYLES
-  /*******************************************/
   
