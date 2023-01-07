@@ -1,5 +1,7 @@
+
+
+
 function updateLight(current) {
-  
     //your code here!
     if (current === 'red') {
     return 'green';
